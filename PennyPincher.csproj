@@ -1,4 +1,4 @@
-﻿<Project Sdk="Dalamud.NET.Sdk/13.0.0">
+<Project Sdk="Dalamud.NET.Sdk/14.0.1">
   <PropertyGroup>
     <PackageProjectUrl>https://github.com/tesu/pennyPincher.git</PackageProjectUrl>
     <Version>1.8.0.6</Version>
